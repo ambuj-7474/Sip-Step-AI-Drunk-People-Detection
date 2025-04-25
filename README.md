@@ -50,3 +50,20 @@ Model 2: Averages predictions across frames for faster inference.
 
 ![434861881-3e42f5d3-6d7b-4010-be97-ba93c3e767d8](https://github.com/user-attachments/assets/1b0029ec-af00-49e5-a801-6404ba5f8bdf)
 
+Metrics Used:
+
+![Screenshot 2025-04-08 095710](https://github.com/user-attachments/assets/7c7ba371-a2dd-42d6-b9c0-c7f36c58a3f5)
+
+Accuracy
+
+Precision
+
+Recall
+
+🤖 Tnis application is significantly build for "Public Safety"
+
+ -> Surveillance analytics
+
+ -> Event monitoring
+
+ -> Automotive in-cabin systems
