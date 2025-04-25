@@ -47,3 +47,6 @@ For quick predictions, use the frame-based model:
 python Copy Edit predict_video('path/to/video.mp4') 🧪 Model Outputs Model 1: Returns a single prediction (Drunk or Sober) for a full video.
 
 Model 2: Averages predictions across frames for faster inference.
+
+![434861881-3e42f5d3-6d7b-4010-be97-ba93c3e767d8](https://github.com/user-attachments/assets/1b0029ec-af00-49e5-a801-6404ba5f8bdf)
+
