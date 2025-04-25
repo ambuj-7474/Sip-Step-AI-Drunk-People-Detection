@@ -60,7 +60,7 @@ Precision
 
 Recall
 
-🤖 Tnis application is significantly build for "Public Safety"
+🤖 This application is significantly build for "Public Safety"
 
  -> Surveillance analytics
 
